@@ -19,7 +19,7 @@ This project is a comprehensive mock management tool developed using Python prog
 ### Installation
 1. Clone the repository:
     ```
-    git clone [https://github.com/YourUsername/PythonDjangoMockManager.git](https://github.com/treatortrick/network-mock-server.git)
+    git clone https://github.com/treatortrick/network-mock-server.git
     cd PythonDjangoMockManager
     ```
 
